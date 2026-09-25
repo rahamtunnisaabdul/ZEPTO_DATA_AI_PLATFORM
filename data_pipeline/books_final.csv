@@ -1,0 +1,81 @@
+book_id,title,category_id,category_name,price_gbp,price_inr,rating,in_stock
+1,A Light in the Attic,1,Poetry,51.77,5461.74,3,1
+2,Tipping the Velvet,2,Historical Fiction,53.74,5669.57,1,1
+3,Soumission,3,Fiction,50.1,5285.55,1,1
+4,Sharp Objects,4,Mystery,47.82,5045.01,4,1
+5,Sapiens: A Brief History of Humankind,5,History,54.23,5721.26,5,1
+6,The Requiem Red,6,Young Adult,22.65,2389.57,1,1
+7,The Dirty Little Secrets of Getting Your Dream Job,7,Business,33.34,3517.37,4,1
+8,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",8,Default,17.93,1891.62,3,1
+9,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,8,Default,22.6,2384.3,4,1
+10,The Black Maria,1,Poetry,52.15,5501.82,1,1
+11,"Starving Hearts (Triangular Trade Trilogy, #1)",8,Default,13.99,1475.94,2,1
+12,Shakespeare's Sonnets,1,Poetry,20.66,2179.63,4,1
+13,Set Me Free,6,Young Adult,17.46,1842.03,5,1
+14,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),9,Sequential Art,52.29,5516.6,5,1
+15,Rip it Up and Start Again,10,Music,35.02,3694.61,5,1
+16,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",10,Music,57.25,6039.88,3,1
+17,Olio,1,Poetry,23.88,2519.34,1,1
+18,Mesaerion: The Best Science Fiction Stories 1800-1849,11,Science Fiction,37.59,3965.75,1,1
+19,Libertarianism for Beginners,12,Politics,51.33,5415.32,2,1
+20,It's Only the Himalayas,13,Travel,45.17,4765.44,2,1
+21,In Her Wake,14,Unknown,12.84,1354.62,1,1
+22,How Music Works,14,Unknown,37.32,3937.26,2,1
+23,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",14,Unknown,30.52,3219.86,3,1
+24,Chase Me (Paris Nights #2),14,Unknown,25.27,2665.98,5,1
+25,Black Dust,14,Unknown,34.53,3642.92,5,1
+26,Birdsong: A Story in Pictures,14,Unknown,54.64,5764.52,3,1
+27,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,14,Unknown,22.5,2373.75,3,1
+28,Aladdin and His Wonderful Lamp,14,Unknown,53.13,5605.22,3,1
+29,Worlds Elsewhere: Journeys Around Shakespeare’s Globe,14,Unknown,40.3,4251.65,5,1
+30,Wall and Piece,14,Unknown,44.18,4660.99,4,1
+31,The Four Agreements: A Practical Guide to Personal Freedom,14,Unknown,17.66,1863.13,5,1
+32,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,14,Unknown,31.05,3275.78,3,1
+33,The Elephant Tree,14,Unknown,23.82,2513.01,5,1
+34,The Bear and the Piano,14,Unknown,36.89,3891.9,1,1
+35,Sophie's World,14,Unknown,15.94,1681.67,5,1
+36,Penny Maybe,14,Unknown,33.29,3512.1,3,1
+37,Maude (1883-1993):She Grew Up with the country,14,Unknown,18.02,1901.11,2,1
+38,"In a Dark, Dark Wood",14,Unknown,19.63,2070.96,1,1
+39,Behind Closed Doors,14,Unknown,52.22,5509.21,4,1
+40,You can't bury them all: Poems,14,Unknown,33.63,3547.96,2,1
+41,Slow States of Collapse: Poems,14,Unknown,57.31,6046.2,3,1
+42,Reasons to Stay Alive,14,Unknown,26.41,2786.26,2,1
+43,Private Paris (Private #10),14,Unknown,47.61,5022.85,5,1
+44,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,14,Unknown,23.11,2438.1,5,1
+45,Without Borders (Wanderlove #1),14,Unknown,45.07,4754.88,2,1
+46,When We Collided,14,Unknown,31.77,3351.74,1,1
+47,"We Love You, Charlie Freeman",14,Unknown,50.27,5303.48,5,1
+48,Untitled Collection: Sabbath Poems 2014,14,Unknown,14.27,1505.48,4,1
+49,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",14,Unknown,44.18,4660.99,4,1
+50,Unicorn Tracks,14,Unknown,18.78,1981.29,3,1
+51,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",14,Unknown,25.52,2692.36,1,1
+52,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),14,Unknown,16.28,1717.54,1,1
+53,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,14,Unknown,31.12,3283.16,3,1
+54,This One Summer,14,Unknown,19.49,2056.19,4,1
+55,Thirst,14,Unknown,17.27,1821.98,5,1
+56,The Torch Is Passed: A Harding Family Story,14,Unknown,19.09,2014.0,1,1
+57,The Secret of Dreadwillow Carse,14,Unknown,56.13,5921.72,1,1
+58,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",14,Unknown,56.41,5951.25,1,1
+59,The Past Never Ends,14,Unknown,56.5,5960.75,4,1
+60,The Natural History of Us (The Fine Art of Pretending #2),14,Unknown,45.22,4770.71,3,1
+61,The Nameless City (The Nameless City #1),14,Unknown,38.16,4025.88,4,1
+62,The Murder That Never Was (Forensic Instincts #5),14,Unknown,54.11,5708.6,3,1
+63,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,14,Unknown,42.96,4532.28,4,1
+64,"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",14,Unknown,23.89,2520.4,4,1
+65,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,14,Unknown,16.77,1769.24,3,1
+66,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",14,Unknown,20.59,2172.24,5,1
+67,The Gutsy Girl: Escapades for Your Life of Epic Adventure,14,Unknown,37.13,3917.22,1,1
+68,The Electric Pencil: Drawings from Inside State Hospital No. 3,14,Unknown,56.06,5914.33,1,1
+69,The Death of Humanity: and the Case for Life,14,Unknown,58.11,6130.6,4,1
+70,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",14,Unknown,49.05,5174.77,3,1
+71,The Art Forger,14,Unknown,40.76,4300.18,3,1
+72,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,14,Unknown,19.73,2081.52,1,1
+73,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,14,Unknown,32.24,3401.32,5,1
+74,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,14,Unknown,41.83,4413.06,4,1
+75,Soul Reader,14,Unknown,39.58,4175.69,2,1
+76,Security,14,Unknown,39.25,4140.88,2,1
+77,"Saga, Volume 6 (Saga (Collected Editions) #6)",14,Unknown,25.02,2639.61,3,1
+78,"Saga, Volume 5 (Saga (Collected Editions) #5)",14,Unknown,51.04,5384.72,2,1
+79,Reskilling America: Learning to Labor in the Twenty-First Century,14,Unknown,19.83,2092.06,2,1
+80,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",14,Unknown,50.4,5317.2,3,1
