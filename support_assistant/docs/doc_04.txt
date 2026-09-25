@@ -1,0 +1,7 @@
+Order Tracking Policy
+
+Customers can track their order using the order information available in the Zepto application.
+
+Order status may change as the order moves through preparation, dispatch, and delivery.
+
+If an order appears delayed or the tracking information is not updating, customers should contact support.

@@ -1,0 +1,9 @@
+Cancellation Policy
+
+Orders may be cancelled when cancellation is available for the order.
+
+Cancellation availability can depend on the current status of the order.
+
+Once an order has progressed beyond the applicable cancellation stage, cancellation may not be available.
+
+Customers should check the application for the available cancellation option.
