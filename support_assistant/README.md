@@ -60,3 +60,6 @@ support_assistant/
 ## API Testing
 
 The support assistant was tested using the FastAPI Swagger interface.
+## Technologies
+
+The application uses FastAPI, LangGraph, ChromaDB, Sentence Transformers, and Pydantic.
