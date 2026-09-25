@@ -57,3 +57,6 @@ support_assistant/
 ├── Dockerfile
 ├── .dockerignore
 └── README.md
+## API Testing
+
+The support assistant was tested using the FastAPI Swagger interface.
